@@ -3,11 +3,11 @@ echo " "
 clear
 blue='\033[1;32m' 
 sleep 2
- echo "                      Coded BY >>>>> DJ.Jayanthan>>>>>" |lolcat
+ echo "                      Coded BY >>>>> Rifky KD>>>>>" |lolcat
 sleep 1
-echo "                      YouTube Channel: DJ Hackers Community" |lolcat
+echo "                      GitHub : github.com/rifkykd" |lolcat
 sleep 1
-echo -e "[ ✔ ] Follow Us on YouTube : https://youtube.com/channel/UCPK242lWGQpRiwYyexknu6g?view_as=subscriber"
-echo -e "[ ✔ ] PROUD BE A HACKER HAPPY HACKING ...DON'T FORGOT TO SUBSCRIBE"
+echo -e "[ ✔ ] HAPPY HACKING ..."
+echo -e "[ ✔ ] ALWAYS DOING SOMTHING IS BETTER THAN DOING NOTHING"
 sleep 3
 bash main_script.sh
