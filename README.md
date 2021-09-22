@@ -34,7 +34,7 @@ $ pip install lolcat
 $ git clone https://github.com/rifkykd/SEE-YOU.git
 ```
 ```
-$ cd SPY-JET
+$ cd SEE-YOU
 ```
 ```
 $ bash setup.sh
