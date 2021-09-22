@@ -1,7 +1,7 @@
 #!/bin/bash
 # coded by: github.com/thelinuxchoice/saycheese
 # This script modified by DJ HACKERS
-# Hearlty thanks for linuxchoice
+# Changed By Rifky KD
 # If you use any part from this code, giving me the credits. Read the Lincense!
 clear
 if [[ -e ngrok ]]; then
@@ -14,29 +14,18 @@ trap 'printf "\n";stop' 2
 banner() {
 
 echo "
-▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
-▒▒█▒▒▒▄██████████▄▒▒▒▒
-▒█▐▒▒▒████████████▒▒▒▒
-▒▌▐▒▒██▄▀██████▀▄██▒▒▒
-▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒
-▐┼▐▒▒██████████████▒▒▒
-▐▄▐████─▀▐▐▀█─█─▌▐██▄▒
-▒▒█████──────────▐███▌
-▒▒█▀▀██▄█─▄───▐─▄███▀▒
-▒▒█▒▒███████▄██████▒▒▒
-▒▒▒▒▒██████████████▒▒▒
-▒▒▒▒▒██████████████▒▒▒
-▒▒▒▒▒█████████▐▌██▌▒▒▒
-▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
-▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒
-▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  
+  _______________________________  _____.___.________   ____ ___  
+ /   _____/\_   _____/\_   _____/  \__  |   |\_____  \ |    |   \ 
+ \_____  \  |    __)_  |    __)_    /   |   | /   |   \|    |   / 
+ /        \ |        \ |        \   \____   |/    |    \    |  /  
+/_______  //_______  //_______  /   / ______|\_______  /______/   
+        \/         \/         \/    \/               \/         
 "  |lolcat
 
 
 echo " "
-printf "           Script Designed By Dj.Jayanthan \n" |lolcat
-printf "           YouTube: Dj Hackers Community \n" |lolcat
+printf "           Script Designed By Rifky KD \n" |lolcat
+printf "           GitHub: github.com/rifkykd \n" |lolcat
 
 printf "\n"
 
