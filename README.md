@@ -5,16 +5,18 @@
      Hack Camera  
       </p>
 <img align="center" src="KD.jpeg"/>
-   ### About SEE YOU
+
+
+### About SEE YOU
 
 
 SEE YOU is a Tool which can be used to Get Microphone voice note from victim also get Photos from victim phone, it's a Bash based script officialy made by Rifky KD. This tool works on both rooted Android device and Non-rooted Android device.
 
-   ### 🎯 ***SEE YOU was Developed for***:
+   ### ***SEE YOU was Developed for***:
 
 * Termux
 
-### ☑️ ***Installation***:
+### ***Installation***:
 
 ```
 $ apt-get update -y
@@ -29,7 +31,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone 
+$ git clone https://github.com/rifkykd/SEE-YOU.git
 ```
 ```
 $ cd SPY-JET
