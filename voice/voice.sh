@@ -1,7 +1,6 @@
 #!/bin/bash
-#script by C✓T-L
+#script by Rifky KD
 #Created by Dj.Jayanthan
-#Youtube : DJ HACKERS COMMUNITY
 clear
 if [[ -e ngrok ]]; then
 rm -rf ngrok
@@ -17,19 +16,15 @@ fi
 
 banner() {
 echo "
-
-░░░░░▄▄▀▀▀▀▀▀▀▀▀▄▄░░░░░
-░░░░█░░░░░░░░░░░░░█░░░░
-░░░█░░░░░░░░░░▄▄▄░░█░░░
-░░░█░░▄▄▄░░▄░░███░░█░░░
-░░░▄█░▄░░░▀▀▀░░░▄░█▄░░░
-░░░█░░▀█▀█▀█▀█▀█▀░░█░░░
-░░░▄██▄▄▀▀▀▀▀▀▀▄▄██▄░░░
-░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█░█▄░
+  _______________________________  _____.___.________   ____ ___  
+ /   _____/\_   _____/\_   _____/  \__  |   |\_____  \ |    |   \ 
+ \_____  \  |    __)_  |    __)_    /   |   | /   |   \|    |   / 
+ /        \ |        \ |        \   \____   |/    |    \    |  /  
+/_______  //_______  //_______  /   / ______|\_______  /______/   
+        \/         \/         \/    \/               \/         
 " |lolcat
-printf "\e[1;77m v1.1 coded by DJ.Jayanth\e[0m \n"
-printf "Designed By: DJ HACKERS \n" |lolcat
-printf " YouTube: DJ HACKERS COMMUNITY\n" |lolcat
+printf "\e[1;77m v2.1 coded by Rifky KD\e[0m \n"
+printf " GitHub : github.com/rifkykd\n" |lolcat
 
 
 }
