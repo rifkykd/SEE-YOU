@@ -1,16 +1,16 @@
-<h1 align="center">💻SPY-JET🎃</h1>
+<h1 align="center">SEE YOU😉</h1>
 <p align="center">
-      👉Hack 🎤Microphone from victim </p>
+     Hack Microphone  </p>
 <p align="center">    
-      👉Hack 📷Camera from victim 
+     Hack Camera  
       </p>
 
-   ### 🎯 About SPY-JET
+   ### About SEE YOU
 
 
-SPY-JET is a Tool which can be used to Get Microphone voice note from victim also get Photos from victim phone, it's a Bash based script officialy made by DJ-Hackers. This tool works on both rooted Android device and Non-rooted Android device.
+SEE YOU is a Tool which can be used to Get Microphone voice note from victim also get Photos from victim phone, it's a Bash based script officialy made by Rifky KD. This tool works on both rooted Android device and Non-rooted Android device.
 
-   ### 🎯 ***SPY-JET was Developed for***:
+   ### 🎯 ***SEE YOU was Developed for***:
 
 * Termux
 
@@ -42,8 +42,3 @@ $ bash main_script.sh
 ```
 ```
 ```
-### ☑️Subscribe our channel on youtube⚙️:https://youtube.com/channel/UCPK242lWGQpRiwYyexknu6g?view_as=subscriber
-   
-
-### ☑️ Join our Whatsapp Group✴️:https://chat.whatsapp.com/GiSkKX83Wz4HWOPixnhkQJ
-   
