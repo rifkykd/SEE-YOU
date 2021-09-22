@@ -1,5 +1,5 @@
 #Coded By DJ.Jayanthan
-#YouTube:Dj Hackers Community
+#Modify By Rifky KD
 clear
 sleep 2
 sl
