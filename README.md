@@ -74,7 +74,7 @@ $ bash main_script.sh
 - When you think enough then you can stop it  `ctrl+c` 
 - Now type `ls` you can see lots of victim’s images & voice clips.
 - If you want open it type `termux-open (copy & past file name)`
-Eg:- termux-open img65323.jpg  or termux-open  voiceclip733.mp3
+`Eg:- termux-open img65323.jpg  or termux-open  voiceclip733.mp3`
 
 ### This tool was developed By :-
 - [**Rifky KD**](https://github.com/rifkykd)
