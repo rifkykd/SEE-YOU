@@ -4,7 +4,7 @@
 <p align="center">    
      Hack Camera  
       </p>
-<img align="center" src="KD.jpeg"/>
+
 <pre align="center">
   _______________________________  _____.___.________   ____ ___  
  /   _____/\_   _____/\_   _____/  \__  |   |\_____  \ |    |   \ 
