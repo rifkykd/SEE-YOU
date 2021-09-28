@@ -1,11 +1,21 @@
 <h1 align="center">SEE YOU😉</h1>
-`<p align="center">
-     Hack Microphone  </p>`
-`<p align="center">    
+<p align="center">
+     Hack Microphone  </p>
+<p align="center">    
      Hack Camera  
-      </p>`
+      </p>
 <img align="center" src="KD.jpeg"/>
+echo -e "Created By \e[5mRifky KD"
+echo "----------------------------" | lolcat
+echo "----------------------------" | lolcat
+echo "
 
+▒█░▄▀ ▒█▀▀▄  ▒█░▒█ ░█▀▀█ ▒█▀▀█ ▒█░▄▀ ▒█▀▀▀ ▒█▀▀█ ▒█▀▀▀█ 
+▒█▀▄░ ▒█░▒█  ▒█▀▀█ ▒█▄▄█ ▒█░░░ ▒█▀▄░ ▒█▀▀▀ ▒█▄▄▀ ░▀▀▀▄▄ 
+▒█░▒█ ▒█▄▄▀  ▒█░▒█ ▒█░▒█ ▒█▄▄█ ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█▄▄▄█
+                                                       " | lolcat
+date | lolcat
+echo ""
 
 ### About SEE YOU
 
@@ -16,7 +26,7 @@ SEE YOU is a Tool which can be used to Get Microphone voice note from victim als
 - Termux app or Kalilinux or other etc 
 - If you have play store Termux,uninstall it.Because,It’s old version.You can download new version from this link 
 `https://f-droid.org/repo/com.termux_117.apk`
-- For the complete installation you need atleast `600` MB free space on your phone 
+- For the complete installation you need atleast `600 MB` free space on your phone 
 - Internet `50-100 MB`
 
 
