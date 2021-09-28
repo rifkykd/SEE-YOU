@@ -13,11 +13,11 @@
 SEE YOU is a Tool which can be used to Get Microphone voice note from victim also get Live front camera Photos from victim phone, It's a Bash based script officialy made by Rifky KD. This tool works on both rooted Android device and Non-rooted Android device.
 
 ### REQUIREMENTS :
--Termux app or Kalilinux or other…
--If you have play store Termux,uninstall it.Because,It’s old version.You can download new version from this link 
+- Termux app or Kalilinux or other…
+- If you have play store Termux,uninstall it.Because,It’s old version.You can download new version from this link 
 https://f-droid.org/repo/com.termux_117.apk
--For the complete installation you need atleast 600 MB free space on your phone 
--Internet 50-100 MB
+- For the complete installation you need atleast 600 MB free space on your phone 
+- Internet 50-100 MB
 
 
 ### ***Installation***:
@@ -53,20 +53,20 @@ $ bash setup.sh
 $ bash main_script.sh
 ```
 ### Important:-
--You must on your mobile data & wifi-hotspot.Otherwise you can’t get the attacking link.
--After complete installation you will get the link.You can send it victim.
--After victim open this link you can get victim’s front camera photos or voice clips.
--When you think enough then you can stop it ( ctrl+c )
--Now type ls you can see lots of victim’s images & voice clips.
--If you want open it type termux-open (copy & past file name)
+- You must on your mobile data & wifi-hotspot.Otherwise you can’t get the attacking link.
+- After complete installation you will get the link.You can send it victim.
+- After victim open this link you can get victim’s front camera photos or voice clips.
+- When you think enough then you can stop it ( ctrl+c )
+- Now type ls you can see lots of victim’s images & voice clips.
+- If you want open it type termux-open (copy & past file name)
 Eg:- termux-open img65323.jpg  or termux-open  voiceclip733.mp3
--------100% working--------
--------Enjoy it-------
+------- 100% working --------
+------- Enjoy it -------
 ### This tool was developed By :-
 - [**Rifky KD**](https://github.com/rifkykd)
 ### And also thanks for :-
-Saycheese - https://github.com/thelinuxchoice/saycheese
-Spy-Jet - https://github.com/Djhackers1/SPY-JET
+- Saycheese - https://github.com/thelinuxchoice/saycheese
+- Spy-Jet - https://github.com/Djhackers1/SPY-JET
 
 ### CONNECT WITH ME :
 <a href="https://twitter.com/Rifky54641898">
