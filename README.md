@@ -38,10 +38,10 @@ $ apt-get update -y
 $ apt-get upgrade -y
 ```
 ```
-$ apt install git php ruby openssh curl wget -y
+$ apt install git php ruby openssh curl wget zip -y
 ```
 ```
-$ wget https://github.com/busyloop/lolcat/archive/master.zipt
+$ wget https://github.com/busyloop/lolcat/archive/master.zip
 ```
 ```
 $ cd lolcat-master/bin
