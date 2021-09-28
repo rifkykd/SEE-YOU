@@ -22,7 +22,7 @@
 SEE YOU is a Tool which can be used to Get Microphone voice note from victim also get Live front camera Photos from victim phone, It's a Bash based script officialy made by Rifky KD. This tool works on both rooted Android device and Non-rooted Android device.
 
 ### REQUIREMENTS :
-- Termux app or Kalilinux or other etc 
+- Termux app
 - If you have play store Termux,uninstall it.Because,It’s old version.You can download new version from this link 
 `https://f-droid.org/repo/com.termux_117.apk`
 - For the complete installation you need atleast `600 MB` free space on your phone 
@@ -109,13 +109,14 @@ $ bash main_script.sh
 
 
 
-### My Projects
-- [**SEE-YOU**](https://github.com/rifkykd/SEE-YOU)
-- [**Fake-Mailer**](https://github.com/rifkykd/Fake-Mailer)
-- [**KD-Host**](https://github.com/rifkykd/KD-Host)
-- [**KD-HACKERS**](https://github.com/rifkykd/KD-HACKERS)
-- [**Unfollow-By-KD**](https://github.com/rifkykd/Unfollow-By-KD)
-- [**Animated-Login-Page**](https://github.com/rifkykd/Animated-Login-Page)
-- [**KD-Tracker**](https://github.com/rifkykd/KD-Tracker)
-- [**Calculate-With-Mr.Boy**](https://github.com/rifkykd/Calculate-With-Mr.Boy)
-
+# My Projects
+<p align="center">
+<a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=highcontrast"></a>
+<a href="https://github.com/rifkykd/KD-Phisher"><img title="KD-Phisher" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-Phisher&theme=highcontrast"></a>
+<a href="https://github.com/rifkykd/SEE-YOU"><img title="SEE-YOU" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=SEE-YOU&theme=highcontrast"></a>
+<a href="https://github.com/rifkykd/Fake-Mailer"><img title="Fake-Mailer" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Fake-Mailer&theme=highcontrast"></a>                 
+<a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=highcontrast"></a>
+<a href="https://github.com/rifkykd/Unfollow-By-KD"><img title="Unfollow-By-KD" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Unfollow-By-KD&theme=highcontrast"></a>
+<a href="https://github.com/rifkykd/Animated-Login-Page"><img title="Animated-Login-Page" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Animated-Login-Page&theme=highcontrast"></a>
+<a href="https://github.com/rifkykd/Calculate-With-Mr.Boy"><img title="Calculate-With-Mr.Boy" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Calculate-With-Mr.Boy&theme=highcontrast"></a>
+</p>
