@@ -3,19 +3,19 @@ echo " "
 clear
 blue='\033[1;32m' 
 sleep 2
- echo "                      Coded BY >>>>> Rifky KD>>>>>" |lolcat
+ echo " Coded BY Rifky KD" |lolcat
 sleep 1
-echo "                      GitHub : github.com/rifkykd" |lolcat
+echo " GitHub : github.com/rifkykd" |lolcat
 sleep 1
-echo "                      Insta  : https://www.instagram.com/rifky__kd/" |lolcat
+echo " Insta  : https://www.instagram.com/rifky__kd/" |lolcat
 sleep 1
-echo "                      TikTok : https://www.tiktok.com/@rifky_kd?lang=en" |lolcat
+echo " TikTok : https://www.tiktok.com/@rifky_kd?lang=en" |lolcat
 sleep 1
-echo "                      Twitter: https://twitter.com/Rifky54641898" |lolcat
+echo " Twitter: https://twitter.com/Rifky54641898" |lolcat
 sleep 1
-echo "                      Youtube: Rifky KD" |lolcat
+echo " Youtube: Rifky KD" |lolcat
 sleep 1
-echo -e "                       [ ✔ ] HAPPY HACKING ..."
-echo -e "          [ ✔ ] ALWAYS DOING SOMTHING IS BETTER THAN DOING NOTHING"
+echo -e " [ ✔ ] EDUCATIONAL PURPOSE ONLY!"
+echo -e " [ ✔ ] ALWAYS DOING SOMTHING IS BETTER THAN DOING NOTHING"
 sleep 3
 bash main_script.sh
