@@ -50,6 +50,12 @@ $ cd lolcat-master/bin
 $ gem install lolcat
 ```
 ```
+$ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
+```
+```
+$ unzip ngrok-stable-linux-arm.zip
+```
+```
 $ git clone https://github.com/rifkykd/SEE-YOU.git
 ```
 ```
