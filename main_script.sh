@@ -14,17 +14,17 @@ echo "
                                                    
 " |lolcat
 
-echo "Coded By Rifky KD" |lolcat
-echo "GitHub : github.com/rifkykd" |lolcat
+echo "                        Coded By Rifky KD" |lolcat
+echo "                   GitHub : github.com/rifkykd" |lolcat
 
 #MENU DRULIVEN START HERE..!
-echo "---------------------------------"
-echo "              MENU"
-echo "---------------------------------"
-printf "\e[1;92m[\e[0m\e[1;77m1\e[0m\e[1;92m]\e[0m\e[1;93m Hack Microphone\e[0m\n"
-printf "\e[1;92m[\e[0m\e[1;77m2\e[0m\e[1;92m]\e[0m\e[1;93m Hack Camera\e[0m\n"
-printf "\e[1;92m[\e[0m\e[1;77m3\e[0m\e[1;92m]\e[0m\e[1;93m About Us\e[0m\n"
-printf "\e[1;92m[\e[0m\e[1;77m4\e[0m\e[1;92m]\e[0m\e[1;93m Exit\e[0m\n"
+echo "                ---------------------------------"
+echo "                             MENU"
+echo "                ---------------------------------"
+printf "\e[1;92m                       [\e[0m\e[1;77m1\e[0m\e[1;92m]\e[0m\e[1;93m Hack Microphone\e[0m\n"
+printf "\e[1;92m                        [\e[0m\e[1;77m2\e[0m\e[1;92m]\e[0m\e[1;93m Hack Camera\e[0m\n"
+printf "\e[1;92m                          [\e[0m\e[1;77m3\e[0m\e[1;92m]\e[0m\e[1;93m About Us\e[0m\n"
+printf "\e[1;92m                            [\e[0m\e[1;77m4\e[0m\e[1;92m]\e[0m\e[1;93m Exit\e[0m\n"
 read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Enter Your Choice: \e[0m' option
 
 
