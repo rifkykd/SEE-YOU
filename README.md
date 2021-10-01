@@ -107,7 +107,8 @@ $ bash main_script.sh
 ### Disclaimer:-
 - This tool is only for educational purpose.Don’t use illegal activities.If you use this tool for other purposes except education I will not be responsible in such cases.
 <h2 align="center"><b>100% WORKING</b></h2>
-### This tool was developed By :-
+
+### This Tool Was Developed By :-
 - [**Rifky KD**](https://github.com/rifkykd)
 ### And also thanks for :-
 - Saycheese - https://github.com/thelinuxchoice/saycheese
@@ -141,7 +142,6 @@ $ bash main_script.sh
 # My Projects
 <p align="center">
 <a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=highcontrast"></a>
-<a href="https://github.com/rifkykd/KD-Phisher"><img title="KD-Phisher" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-Phisher&theme=highcontrast"></a>
 <a href="https://github.com/rifkykd/SEE-YOU"><img title="SEE-YOU" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=SEE-YOU&theme=highcontrast"></a>
 <a href="https://github.com/rifkykd/Fake-Mailer"><img title="Fake-Mailer" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Fake-Mailer&theme=highcontrast"></a>                 
 <a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=highcontrast"></a>
