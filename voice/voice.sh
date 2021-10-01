@@ -23,8 +23,8 @@ echo "
 /_______  //_______  //_______  /   / ______|\_______  /______/   
         \/         \/         \/    \/               \/         
 " |lolcat
-printf "\e[1;77m v2.1 coded by Rifky KD\e[0m \n"
-printf " GitHub : github.com/rifkykd\n" |lolcat
+printf "                      v2.1 coded by Rifky KD\n" |lolcat
+printf "                    GitHub : github.com/rifkykd\n" |lolcat
 
 
 }
