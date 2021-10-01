@@ -24,8 +24,8 @@ echo "
 
 
 echo " "
-printf "           Script Designed By Rifky KD \n" |lolcat
-printf "           GitHub: github.com/rifkykd \n" |lolcat
+printf "                       Script Designed By Rifky KD \n" |lolcat
+printf "                       GitHub : github.com/rifkykd \n" |lolcat
 
 printf "\n"
 
