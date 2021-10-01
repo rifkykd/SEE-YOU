@@ -104,12 +104,9 @@ $ bash main_script.sh
 - After victim open this link you can get victim’s front camera photos or voice clips.
 - When you think enough then you can stop it  `ctrl+c` 
 - Now type `ls` you can see lots of victim’s images & voice clips.
-
-<h2 align="center"><b>100% WORKING</b></h2>
-
 ### Disclaimer:-
 - This tool is only for educational purpose.Don’t use illegal activities.If you use this tool for other purposes except education I will not be responsible in such cases.
-
+<h2 align="center"><b>100% WORKING</b></h2>
 ### This tool was developed By :-
 - [**Rifky KD**](https://github.com/rifkykd)
 ### And also thanks for :-
