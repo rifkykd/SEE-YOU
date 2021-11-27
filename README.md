@@ -113,9 +113,7 @@ $ bash main_script.sh
 
 ### This Tool Was Developed By :-
 - [**Rifky KD**](https://github.com/rifkykd)
-### And also thanks for :-
-- Saycheese - https://github.com/thelinuxchoice/saycheese
-- Spy-Jet - https://github.com/Djhackers1/SPY-JET
+
 
 ### CONNECT WITH ME :
 <a href="https://twitter.com/Rifky54641898">
