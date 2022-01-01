@@ -111,11 +111,10 @@ $ bash main_script.sh
 - This tool is only for educational purpose.Don’t use illegal activities.If you use this tool for other purposes except education I will not be responsible in such cases.
 <h2 align="center"><b>100% WORKING</b></h2>
 
-### This Tool Was Developed By :-
-- [**Rifky KD**](https://github.com/rifkykd)
+### This Tool Was Developed By :
 
-
-### CONNECT WITH ME :
+- [**Rifky**](https://github.com/rifkykd)
+<h3 align="left">Connect with me</h3>
 <a href="https://twitter.com/Rifky54641898">
   <img align="left" alt="Rifky KD| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="blank"/>
 </a>
@@ -125,28 +124,18 @@ $ bash main_script.sh
 <a href="https://github.com/rifkykd">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" target="blank"/>
 </a>
-<a href="href="https://www.tiktok.com/@rifky_kd?lang=en ">
+<a href="href="https://www.tiktok.com/@rifky_kd?lang=en">
   <img align="left" alt="TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/tiktok.svg" target="blank"/>
 </a>
-
-                                                                                                                    
- <a href="https://www.youtube.com/channel/UCFu0H_KJJG_JiHH-8JOWjOA" target="blank">
+<a href="https://www.youtube.com/channel/UCFu0H_KJJG_JiHH-8JOWjOA" target="blank">
   <img align="left" alt="Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/youtube.svg"  />
 </a>
-
+<a href="https://t.me/@rifky_kd" target="blank">
+  <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />
+</a>
 <br>
-
-
-
-
-
-# My Projects
-<p align="center">
-<a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=highcontrast"></a>
-<a href="https://github.com/rifkykd/SEE-YOU"><img title="SEE-YOU" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=SEE-YOU&theme=highcontrast"></a>
-<a href="https://github.com/rifkykd/Fake-Mailer"><img title="Fake-Mailer" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Fake-Mailer&theme=highcontrast"></a>                 
-<a href="https://github.com/rifkykd/KD-HACKERS"><img title="KD-HACKERS" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=KD-HACKERS&theme=highcontrast"></a>
-<a href="https://github.com/rifkykd/Unfollow-By-KD"><img title="Unfollow-By-KD" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Unfollow-By-KD&theme=highcontrast"></a>
-<a href="https://github.com/rifkykd/Animated-Login-Page"><img title="Animated-Login-Page" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Animated-Login-Page&theme=highcontrast"></a>
-<a href="https://github.com/rifkykd/Calculate-With-Mr.Boy"><img title="Calculate-With-Mr.Boy" src="https://github-readme-stats.vercel.app/api/pin/?username=rifkykd&repo=Calculate-With-Mr.Boy&theme=highcontrast"></a>
+<br>                                                                                                                
+<p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rifkykd/SEE-YOU" alt="visitor badge"/>
 </p>
+
